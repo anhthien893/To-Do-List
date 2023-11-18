@@ -1,0 +1,71 @@
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.exe
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.deps.json
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.runtimeconfig.json
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.pdb
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\data.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\data.pdb
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.csproj.AssemblyReference.cache
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Application_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Course_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.ForgetPassword_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.LoginGoogle_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Login_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Properties.Resources.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Question_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Register_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Take_Exam.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Task_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.TestGuide.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Test_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.UpdatePassword_Form.resources
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.csproj.GenerateResource.cache
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.AssemblyInfoInputs.cache
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.AssemblyInfo.cs
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.csproj.CoreCompileInputs.cache
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.csproj.CopyComplete
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\refint\PRN assignment.dll
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.pdb
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.genruntimeconfig.cache
+C:\Users\nhat8\Downloads\PHUC-PRN\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\ref\PRN assignment.dll
